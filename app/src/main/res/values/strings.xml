@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sangue Salva</string>
+    <string name="add_account"><u>Cadastre-se</u></string>
+    <string name="forget_password"><u>Esqueci minha senha</u></string>
+</resources>
